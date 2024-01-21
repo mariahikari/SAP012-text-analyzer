@@ -3,11 +3,40 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Analizador de texto</title>
+  <title>Analisador de Texto</title>
   <link rel="stylesheet" href="style.css" />
+
 </head>
 
 <body>
+  <header>
+    <h1>Analisador de Texto</h1>
+  </header>
+  <textarea name="user-input" rows="10" cols="50" placeholder="Digite aqui..."></textarea>
+  <ul>
+    <li class="Analisador" data-testid="word-count">Palavras: 0</li>
+    <li class="Analisador" data-testid="character-count">Caracteres: 0</li>
+    <li class="Analisador" data-testid="character-no-spaces-count">Caracteres excluindo espaços e sinais de pontuação: 0
+    </li>
+    <li class="Analisador" data-testid="number-count">Números: 0</li>
+    <li class="Analisador" data-testid="number-sum">Soma total de números: 0</li>
+    <li class="Analisador" data-testid="word-length-average">Comprimento médio das palavras: 0</li>
+  </ul>
+
+
+  <button id="reset-button">Limpar</button>
+
+
+  <div class="footer">
+    <p>By: Maria Hikari</p>
+    <div id="footer-instagram">
+      <a href="https://www.instagram.com/mariahikari/">
+        <img src="Inst.png">
+      </a>
+    </div>
+  </div>
+
   <script src="index.js" type="module"></script>
 </body>
+
 </html>
