@@ -1,79 +1,75 @@
-
 body{
-    font-family: Georgia;
-    background-image: url('Fundo.jpg');
-    background-repeat: repeat;
-    background-size: cover;
-
+    font-family: Georgia; /* Define a fonte Georgia para o corpo da página */
+    background-image: url('Fundo.jpg'); /* Define uma imagem de fundo */
+    background-repeat: repeat; /* Permite que a imagem de fundo se repita */
+    background-size: cover; /* Faz com que a imagem de fundo cubra todo o body */
 }
 
 header{
-    font-family: Geogia;
-    display: flex;
-    flex-direction: column;
-    margin-top: 3px;
-    text-align: center;
-    color: #fe074c;
-    font-size: 30px;
+    font-family: Geogia; /* Define a fonte do cabeçalho como Georgia */
+    font-size: 30px; /* Tamanho da fonte */     
+    color: #fe074c; /* Cor do texto */
+    text-align: center; /* Centraliza o texto */     
+    display: flex; /* Layout flexível */
+    flex-direction: column; /* Organiza verticalmente */
+    margin-top: 3px; /* Adiciona espaço superior */
 }
 
 .Analisador{
-    font-family: Geogia;
-    color: black;
-    background-color: white;    
-    font-size: 25px;
-    list-style: none;
-    display: flex;
-    width: 95%; 
-    padding: 10px;
-    border: 1px solid #fff197;;
-    border-radius: 30px;
-    margin: 2px;
-
+    font-family: Geogia; /* Define a fonte do cabeçalho como Georgia */
+    font-size: 25px; /* Tamanho da fonte */ 
+    color: black; /* Cor do texto */
+    background-color: white; /* Cor do fundo */
+    list-style: none; /* Remove os marcadores de lista padrão */
+    display: flex; /* Layout flexível */
+    width: 95%; /* Largura da lista */
+    padding: 10px; /* adiciona preenchimento interno */
+    border: 1px solid #fff197; /* Define borda sólida e a cor */
+    border-radius: 30px;/* Arredonda as bordas */
+    margin: 2px; /* Adiciona uma pequena margem externa */
 }
 
 
 textarea[name="user-input"]{
-    text-align:justify;
-    color: black;
-    font-size: 20px;
-    font-weight: bold;
-    margin-top: 10px;
-    width: 99%;
-    border: 1px solid gray;
-    border-radius: 5px;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
+    font-size: 20px; /* Tamanho da fonte */ 
+    font-weight: bold; /* Negrito */
+    color: black; /* Cor do texto */
+    text-align:justify; /* Define a área de texto como justificada */
+    display: flex; /* Layout flexível */
+    flex-direction: column; /* Organiza verticalmente */
+    width: 99%; /* Especifica a largura da área de texto */
+    border: 1px solid gray; /* Define borda sólida e a cor */
+    border-radius: 5px; /* Arredonda as bordas */
+    margin-top: 10px; /* Adiciona espaço superior */
+    gap: 15px; /* Adiciona espaçamento entre os elementos  */
 }
 
 #reset-button{
-    color: white;
-    background-color: #fe074c;
-    font-size: 20px;
-    margin: 5px 35px;
-    width: 95%; 
-    padding: 10px 400px;
-    border-radius: 5px;
-    border: none;
-    cursor: pointer;
-    transition: .3s;
-
+    font-size: 20px; /* Tamanho da fonte */ 
+    color: white; /* Cor do texto */
+    background-color: #fe074c; /* Cor do fundo */
+    width: 95%; /* Largura do botão */ 
+    padding: 10px 400px; /* Adiciona preenchimeno interno */ 
+    border: none; /* Remove borda padrão */ 
+    border-radius: 5px; /* Arredonda as bordas */ 
+    cursor: pointer; /* Muda o cursor de seta para mão indicando que é clicável */ 
+    transition: .3s; /* te */ 
+    margin: 5px 35px; /* Adiciona margens superior, inferior e laterais (esquerda e direita) */ 
 }
 
 #reset-button:hover{
-    background-color: #f88aa9;
+    background-color: #f88aa9; /* Cor do fundo */
 }
 
 .footer{
-    text-align:center;
-    color: black;         
-    font-size: 30px bold;
-    margin-top: 15px;
+    font-size: 30px bold; /* Tamanho da fonte em negrito*/ 
+    color: black; /* Cor do texto */
+    text-align:center; /* Centraliza o texto */
+    margin-top: 15px; /* Adiciona espaço superior */
 }
 
 .footer-instagram{
-    text-align:center;
-    margin-top: 15px;
+    text-align:center; /* Centraliza o texto */
+    margin-top: 15px; /* Adiciona espaço superior */
 }
 
