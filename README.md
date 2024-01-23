@@ -61,6 +61,23 @@ $ cd SAP012-text-analyzer
 # Instale a Dependência
 $ npm install
 ```
+testes
+hshd
+kodskp
+
+okdpsakdsa
+sakdsa
+
+
+iodsaidosj
+koakdkoskdpskoda
+okosadpkas
+ew0i9rkflsd
+
+iodsaidosj
+koakdkoskdpskoda
+okosadpkas
+ew0i9rkflsd
 
 ## 💁‍♀️ Autora
 
