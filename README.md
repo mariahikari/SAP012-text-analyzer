@@ -102,7 +102,7 @@ Este repositório usa o GitHub Actions para executar automaticamente os testes u
 Você pode verificar o resultado desta GitHub Action na aba _Actions_ do seu repositório no GitHub.
 
 
-## ♻️ Como contribuir 
+## ♻️ Como contribuir
 
 Antes de começar, instale o seguinte:
 
@@ -135,8 +135,9 @@ Obrigado por usar meu Analisador de Texto!
 
 <a href="https://github.com/mariahikari">
 <img src="Autora.jpg" width="90px"
-<br>
-<br>
+
+---
+
   <sub><b>Maria Hikari</b></sub></a>
 
 
