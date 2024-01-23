@@ -70,7 +70,10 @@ Obrigado por usar meu Analisador de Texto!
 
 
 <a href="https://github.com/mariahikari">
-<img src="Autora.jpg" width="90px"<b>Maria Hikari</b> /> </a>
+<img src="Autora.jpg" width="90px"
+<br>
+<br>
+  <sub><b>Maria Hikari</b></sub></a>
 
 
 
