@@ -2,15 +2,15 @@
 
 ## Índice
 
-- [👩‍💻: Projeto](#-projeto)
-- [🧠: Funcionalidades](#-funcionalidades)
-- [💻: Tecnologias utilizadas](#-tecnologias)
-- [♻️: Como contribuir](#-como-contribuir)
-- [💁‍♀️: Autora](#-autora)
+- [👩‍💻 Projeto](#-projeto)
+- [🧠 Funcionalidades](#-funcionalidades)
+- [💻 Tecnologias utilizadas](#-tecnologias)
+- [♻️ Como contribuir](#-como-contribuir)
+- [💁‍♀️ Autora](#-autora)
 
 ---
 
-## 👩‍💻: Projeto
+## 👩‍💻 Projeto
 
 Neste projeto, desenvolvi uma aplicação web que permite os usuários digitar um texto e realizar análises instantâneas no navegador, o foco dos indicadores é fornecer métricas detalhadas sobre caracteres, letras e números, de forma que a aplicação oferece uma experiência intuitiva e eficiente para entender a composição textual.
 
@@ -20,8 +20,7 @@ Ao longo do desenvolvimento, explorei conceitos de desenvolvimento web, desenvol
 
 Agradeço à Laboratória por proporcionar uma experiência enriquecedora e desafiadora.
 
-<h1><a href="">Veja o resultado do Projero</a></h1>
-## 🧠: Funcionalidades
+## 🧠 Funcionalidades
 
 A lista de funcionalidades do Analisador de Texto é a seguinte:
 
@@ -40,13 +39,13 @@ A lista de funcionalidades do Analisador de Texto é a seguinte:
 
 ![img](https://github.com/Laboratoria/SAP012-text-analyzer/assets/152895146/49ad229a-4544-4665-ac13-b658e51065ae)
 
-## 💻: Tecnologias 
+## 💻 Tecnologias 
 
   + HTML
   + CSS
   + JavaScript
 
-## ♻️: Como contribuir
+## ♻️ Como contribuir
 
 ```bash
 # Clone o Projeto
@@ -63,7 +62,7 @@ $ cd SAP012-text-analyzer
 $ npm install
 ```
 
-## 💁‍♀️: Autora
+## 💁‍♀️ Autora
 
 Sinta-se à vontade para contribuir, relatar problemas ou sugerir melhorias. 
 
