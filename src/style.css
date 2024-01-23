@@ -16,19 +16,19 @@ header{
 }
 
 .Analisador{
+    width: 95%; /* Largura da lista */
+    padding: 10px; /* adiciona preenchimento interno */
+    border: 1px solid #fff197; /* Define borda sólida e a cor */
+    border-radius: 30px;/* Arredonda as bordas */
+    margin: 2px; /* Adiciona uma pequena margem externa */    
     font-family: Geogia; /* Define a fonte do cabeçalho como Georgia */
     font-size: 25px; /* Tamanho da fonte */ 
     color: black; /* Cor do texto */
     background-color: white; /* Cor do fundo */
     list-style: none; /* Remove os marcadores de lista padrão */
     display: flex; /* Layout flexível */
-    width: 95%; /* Largura da lista */
-    padding: 10px; /* adiciona preenchimento interno */
-    border: 1px solid #fff197; /* Define borda sólida e a cor */
-    border-radius: 30px;/* Arredonda as bordas */
-    margin: 2px; /* Adiciona uma pequena margem externa */
-}
 
+}
 
 textarea[name="user-input"]{
     font-size: 20px; /* Tamanho da fonte */ 
@@ -61,14 +61,14 @@ textarea[name="user-input"]{
     background-color: #f88aa9; /* Cor do fundo */
 }
 
-.footer{
+footer{
     font-size: 30px bold; /* Tamanho da fonte em negrito*/ 
     color: black; /* Cor do texto */
     text-align:center; /* Centraliza o texto */
     margin-top: 15px; /* Adiciona espaço superior */
 }
 
-.footer-instagram{
+footer-instagra{
     text-align:center; /* Centraliza o texto */
     margin-top: 15px; /* Adiciona espaço superior */
 }
