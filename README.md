@@ -1,15 +1,16 @@
-Projeto: Analisador de Texto
+# Projeto: Analisador de Texto
 
 ## Índice
 
-- [:woman_technologist: Projeto](#projeto)
-- [:brain: Funcionalidades](#funcionalidades)
-- [:computer: Tecnologias utilizadas](#tecnologias-utilizadas)
-- [:sassy_woman: Autora](#autora)
+- [👩‍💻: Projeto](#-projeto)
+- [🧠: Funcionalidades](#-funcionalidades)
+- [💻: Tecnologias utilizadas](#-tecnologias)
+- [♻️: Como contribuir](#-como-contribuir)
+- [💁‍♀️: Autora](#-autora)
 
 ---
 
-## :woman_technologist: Projeto
+## 👩‍💻: Projeto
 
 Neste projeto, desenvolvi uma aplicação web que permite os usuários digitar um texto e realizar análises instantâneas no navegador, o foco dos indicadores é fornecer métricas detalhadas sobre caracteres, letras e números, de forma que a aplicação oferece uma experiência intuitiva e eficiente para entender a composição textual.
 
@@ -19,7 +20,8 @@ Ao longo do desenvolvimento, explorei conceitos de desenvolvimento web, desenvol
 
 Agradeço à Laboratória por proporcionar uma experiência enriquecedora e desafiadora.
 
-## :brain: Funcionalidades
+<h1><a href="">Veja o resultado do Projero</a></h1>
+## 🧠: Funcionalidades
 
 A lista de funcionalidades do Analisador de Texto é a seguinte:
 
@@ -38,22 +40,42 @@ A lista de funcionalidades do Analisador de Texto é a seguinte:
 
 ![img](https://github.com/Laboratoria/SAP012-text-analyzer/assets/152895146/49ad229a-4544-4665-ac13-b658e51065ae)
 
-## :computer: Tecnologias utilizadas
+## 💻: Tecnologias 
 
-  + HTML: Estrutura da página web.
-  + CSS: Estilização.
-  + JavaScript: Lógica da análise do texto.
+  + HTML
+  + CSS
+  + JavaScript
 
-## :sassy_woman: Autora
+## ♻️: Como contribuir
+
+```bash
+# Clone o Projeto
+$ git clone https://github.com/mariahikari/SAP012-text-analyzer.git
+```
+
+```bash
+# Entre no Diretório
+$ cd SAP012-text-analyzer
+```
+
+```bash
+# Instale a Dependência
+$ npm install
+```
+
+## 💁‍♀️: Autora
 
 Sinta-se à vontade para contribuir, relatar problemas ou sugerir melhorias. 
 
 Obrigado por usar meu Analisador de Texto!
 
-![Autora](https://github.com/Laboratoria/SAP012-text-analyzer/assets/152895146/d0fec286-4a7c-41a2-8bce-20253c8805c4)
+
+<a href="https://github.com/mariahikari">
+<img src="Autora.jpg" width="90px" />
+
+<b>Maria Hikari</b></a>
 
 
-Maria Hikari
 
 
 
