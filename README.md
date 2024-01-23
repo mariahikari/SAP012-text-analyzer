@@ -104,20 +104,26 @@ Você pode verificar o resultado desta GitHub Action na aba _Actions_ do seu rep
 
 ## ♻️ Como contribuir 
 
-```bash
-# Clone o Projeto
-$ git clone https://github.com/mariahikari/SAP012-text-analyzer.git
-```
+Antes de começar, instale o seguinte:
 
-```bash
-# Entre no Diretório
-$ cd SAP012-text-analyzer
-```
+1. [Node.js](https://nodejs.org/pt-br/).
+2. [git](https://git-scm.com/download/) Se você estiver no Linux, é provável que já esteja instalado 👀.
+3. Um editor de código, pode ser o [Visual Studio Code](https://code.visualstudio.com/).
 
-```bash
-# Instale a Dependência
-$ npm install
-```
+Depois, no [GitHub](https://github.com/):
+
+1. Crie uma conta. 
+2. Faça um _fork_ deste projeto.
+3. Configure sua chave SSH no GitHub. 
+
+Depois, se você estiver no Windows, em um shell - pode usar o Git Bash:
+
+1. Clone o _fork_ para o seu PC
+2. Navegue até o diretório do projeto clonado no seu shell
+3. Instale as dependências do projeto com `npm install`
+4. Instale o `playwright` com `npx playwright install chromium --with-deps`
+5. Para iniciar o servidor web, execute `npm start` e vá para `http://localhost:3000` no seu navegador.
+6. Agora é só codar! 🚀
 
 
 ## 💁‍♀️ Autora
