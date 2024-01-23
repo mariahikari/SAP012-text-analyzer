@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Analisador de Texto</title> <!-- //Define o título da página -->
+  <link rel="stylesheet" href="style.css" /> <!-- //Vincula uma estilo externo chamado "style.css" à página -->
+
+</head>
+
+<body>
+  <header>
+    <h1>Analisador de Texto</h1>
+  </header>
+  <textarea name="user-input" rows="10" cols="50" placeholder="Digite aqui..."></textarea> <!-- //Área de texto onde os usuários inserer o texto que será analisado -->
+  <ul> <!-- //Lista com os resultados da análise de texto -->
+    <li class="Analisador" data-testid="word-count">Palavras: 0</li> 
+    <li class="Analisador" data-testid="character-count">Caracteres: 0</li> 
+    <li class="Analisador" data-testid="character-no-spaces-count">Caracteres excluindo espaços e sinais de pontuação: 0</li>
+    <li class="Analisador" data-testid="number-count">Números: 0</li>
+    <li class="Analisador" data-testid="number-sum">Soma total de números: 0</li>
+    <li class="Analisador" data-testid="word-length-average">Comprimento médio das palavras: 0</li>
+  </ul>
+
+
+  <button id="reset-button">Limpar</button> <!-- //Botão que pode ser clicado para limpar o conteúdo da área de texto e os resultados da análise. -->
+
+
+  <footer> <!-- //Seção de rodapé -->
+    <p>By: Maria Hikari</p> <!-- //Nome do autor -->
+    <div id="footer-instagram"> 
+      <a href="https://www.instagram.com/mariahikari/"> <!-- //Link direcionando para o perfil do Instagram do autor -->
+        <img src="Inst.png"> <!-- //Logo do Instagram -->
+      </a>
+    </div>
+    </footer>
+
+  <script src="index.js" type="module"></script> <!-- //Inclui um arquivo JavaScript chamado "index.js" na página -->
+</body>
+
+</html>
