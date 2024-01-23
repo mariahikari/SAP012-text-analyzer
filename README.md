@@ -5,7 +5,7 @@
 - [👩‍💻 Projeto](#-projeto)
 - [🧠 Funcionalidades](#-funcionalidades)
 - [💻 Tecnologias](#-tecnologias)
-- [♻️ Como contribuir](#como-contribuir)
+- [♻️ Como contribuir](#-como-contribuir)
 - [💁‍♀️ Autora](#-autora)
 
 ---
@@ -46,6 +46,7 @@ A lista de funcionalidades do Analisador de Texto é a seguinte:
   + JavaScript
 
 ## ♻️ Como contribuir 
+
 ```bash
 # Clone o Projeto
 $ git clone https://github.com/mariahikari/SAP012-text-analyzer.git
