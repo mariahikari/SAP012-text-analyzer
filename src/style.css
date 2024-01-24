@@ -53,7 +53,7 @@ textarea[name="user-input"]{
     border: none; /* Remove borda padrão */ 
     border-radius: 5px; /* Arredonda as bordas */ 
     cursor: pointer; /* Muda o cursor de seta para mão indicando que é clicável */ 
-    transition: .3s; /* te */ 
+
     margin: 5px 35px; /* Adiciona margens superior, inferior e laterais (esquerda e direita) */ 
 }
 
