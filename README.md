@@ -6,6 +6,7 @@
 - [🧠 Funcionalidades](#-funcionalidades)
 - [💻 Tecnologias](#-tecnologias)
 - [🔎 Testes](#-testes)
+- [📖 Objetivo de Aprendizagem](#-objetivo-de-aprendizagem)
 - [♻️ Como contribuir](#-como-contribuir)
 - [💁‍♀️ Autora](#-autora)
 
@@ -102,7 +103,40 @@ Este repositório usa o GitHub Actions para executar automaticamente os testes u
 
 Você pode verificar o resultado desta GitHub Action na aba _Actions_ do seu repositório no GitHub.
 
+## 📖 Objetivo de Aprendizagem
 
+Objetivos de aprendizagem alcançados e aplicados no projeto:
+
+  + HTML:
+    - Uso de HTML semântico
+      
+  + CSS:   
+    -  Uso de seletores de CSS
+    -  Modelo de caixa (box model): borda, margem, preenchimento
+
+  + Web APIs
+    - Uso de seletores de DOM
+    - Manipulação de eventos de DOM (listeners, propagação, delegação)
+    - Manipulação dinâmica de DOM
+      
+  + JavaScript
+    - Tipos de dados primitivos
+    - Strings (cadeias de caracteres)
+    - Variáveis (declaração, atribuição, escopo)
+    - Uso de condicionais (if-else, switch, operador ternário, lógica booleana)
+    - Uso de laços (while, for, for..of)
+    - Funções (params, args, return)
+    - Testes unitários (unit tests)
+    - Módulos de ECMAScript (ES modules)
+    - Uso de linter (ESLINT)
+    - Uso de identificadores descritivos (Nomenclatura e Semântica)
+      
+   + Controle de Versões (Git e GitHub)
+     -  Git: Instalação e configuração
+     - Git: Controle de versão com git (init, clone, add, commit, status, push, pull, remote)
+     - GitHub: Criação de contas e repositórios, configuração de chave SSH
+     - GitHub: Implantação com GitHub Pages
+ 
 ## ♻️ Como contribuir
 
 Antes de começar, instale o seguinte:
