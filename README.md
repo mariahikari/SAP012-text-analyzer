@@ -22,6 +22,7 @@ Ao longo do desenvolvimento, explorei conceitos de desenvolvimento web, desenvol
 
 Agradeço à Laboratória por proporcionar uma experiência enriquecedora e desafiadora.
 
+[Veja aqui o resultado do projeto](https://mariahikari.github.io/SAP012-text-analyzer/)
 
 ## 🧠 Funcionalidades
 
