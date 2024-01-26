@@ -7,8 +7,8 @@
 - [💻 Tecnologias](#-tecnologias)
 - [🔎 Testes](#-testes)
 - [📖 Objetivo de Aprendizagem](#-objetivo-de-aprendizagem)
-- [♻️ Como contribuir](#-como-contribuir)
-- [💁‍♀️ Autora](#-autora)
+- [♻️ Como contribuir](#%EF%B8%8F-como-contribuir)
+- [💁‍♀️ Autora](#%EF%B8%8F-autora)
 
 ---
 
