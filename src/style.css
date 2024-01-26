@@ -1,11 +1,11 @@
-body{
+body{ /* Seletor de Elemento */
     font-family: Georgia; /* Define a fonte Georgia para o corpo da página */
     background-image: url('Fundo.jpg'); /* Define uma imagem de fundo */
     background-repeat: repeat; /* Permite que a imagem de fundo se repita */
     background-size: cover; /* Faz com que a imagem de fundo cubra todo o body */
 }
 
-header{
+header{ /* Seletor de Elemento */
     font-family: Geogia; /* Define a fonte do cabeçalho como Georgia */
     font-size: 30px; /* Tamanho da fonte */     
     color: #fe074c; /* Cor do texto */
@@ -14,8 +14,8 @@ header{
     flex-direction: column; /* Organiza verticalmente */
     margin-top: 3px; /* Adiciona espaço superior */
 }
-
-.Analisador{
+/* Seletor de Classe */
+.Analisador{ 
     width: 95%; /* Largura da lista */
     padding: 10px; /* adiciona preenchimento interno */
     border: 1px solid #fff197; /* Define borda sólida e a cor */
@@ -27,10 +27,9 @@ header{
     background-color: white; /* Cor do fundo */
     list-style: none; /* Remove os marcadores de lista padrão */
     display: flex; /* Layout flexível */
-
 }
 
-textarea[name="user-input"]{
+textarea[name="user-input"]{ /* Seletor de Atributo */
     font-size: 20px; /* Tamanho da fonte */ 
     font-weight: bold; /* Negrito */
     color: black; /* Cor do texto */
@@ -44,7 +43,7 @@ textarea[name="user-input"]{
     gap: 15px; /* Adiciona espaçamento entre os elementos  */
 }
 
-#reset-button{
+#reset-button{ /* Seletor de ID */
     font-size: 20px; /* Tamanho da fonte */ 
     color: white; /* Cor do texto */
     background-color: #fe074c; /* Cor do fundo */
@@ -53,22 +52,21 @@ textarea[name="user-input"]{
     border: none; /* Remove borda padrão */ 
     border-radius: 5px; /* Arredonda as bordas */ 
     cursor: pointer; /* Muda o cursor de seta para mão indicando que é clicável */ 
-
     margin: 5px 35px; /* Adiciona margens superior, inferior e laterais (esquerda e direita) */ 
 }
 
-#reset-button:hover{
-    background-color: #f88aa9; /* Cor do fundo */
+#reset-button:hover{ /* Seletor de ID */
+    background-color: #f88aa9; /* A cor do fundo é acionada quando o mouse está sobre o botão*/
 }
 
-footer{
+footer{ /* Seletor de Elemento */
     font-size: 30px bold; /* Tamanho da fonte em negrito*/ 
     color: black; /* Cor do texto */
     text-align:center; /* Centraliza o texto */
     margin-top: 15px; /* Adiciona espaço superior */
 }
 
-footer-instagra{
+footer-instagram{
     text-align:center; /* Centraliza o texto */
     margin-top: 15px; /* Adiciona espaço superior */
 }
