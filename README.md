@@ -15,7 +15,7 @@
 
 ## 👩‍💻 Projeto
       
-Neste projeto, desenvolvi uma aplicação web que permite os usuários digitar um texto e realizar análises instantâneas no navegador, o foco dos indicadores é fornecer métricas detalhadas sobre caracteres, letras e números, de forma que a aplicação oferece uma experiência intuitiva e eficiente para entender a composição textual.
+Neste projeto, desenvolvi uma aplicação web que permite ao usuário digitar um texto e realizar análises instantâneas no navegador, o foco dos indicadores é fornecer métricas detalhadas sobre caracteres, letras e números, de forma que a aplicação oferece uma experiência intuitiva e eficiente para entender a composição textual.
 
 Criado durante o **Bootcamp Programação Web da [Laboratória](https://www.laboratoria.la/br)**, este projeto tem como objetivo principal proporcionar um ambiente prático e desafiador para o aprendizado de HTML, CSS e JavaScript. 
 
